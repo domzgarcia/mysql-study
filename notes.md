@@ -36,13 +36,22 @@ student_id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY);
 </details>
 
 <details>
- <summary><b>Lesson: What is a Primary Key?</b></summary>
+ <summary><b>Lesson 1: What is a Primary Key?</b></summary>
  <ul>
   <li>Uniquely identifies a row or record.</li>
   <li>Each Primary Key must be unique to the row.</li>
   <li>Must be given a value when the row is created and that value can't be NULL.</li>
   <li>The original value can't be changed.</li>
   <li>It's probably best to auto increment the value of the key.</li>
+ </ul>
+</details>
+
+<details>
+ <summary><b>Lesson 2: Atomic Tables & Table Templating</b></summary>
+ <ul>
+  <li>Every table should focus on describing just one thing.</li>
+  <li>After you decide what one thing your table will describe, then decide what things you need to describe that thing.</li>
+  <li>Write out all the ways to describe the thing and if any of those things requires multiple inputs, pull them out.</li>
  </ul>
 </details>
 
