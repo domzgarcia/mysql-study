@@ -36,7 +36,7 @@ student_id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY);
 </details>
 
 <details>
- <summary>Lession: What is a Primary Key?</summary>
+ <summary><b>Lesson: What is a Primary Key?</b></summary>
  <ul>
   <li>Uniquely identifies a row or record.</li>
   <li>Each Primary Key must be unique to the row.</li>
