@@ -2,9 +2,11 @@
  <summary>Usual action to inspect Database</summary>
  <ul>
   <li>show databases;</li> 
-  <li>USE testDB;</li> 
   <li>SELECT DATABASES();</li> 
   <li>DROP DATABASE IF EXISTS testDB;</li> 
+  <li>1. CREATE DATABASE testDB;</li>
+  <li>2. USE testDB;</li> 
+  <li>3. SHOW TABLES;</li>
  </ul>
 </details>
 
@@ -35,11 +37,23 @@ student_id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY);
 
 
 <details>
- <summary>Sample code: Create Student Table</summary>
+ <summary>Template</summary>
  <ul>
   <li>
 <pre>
-Test
+Content
+</pre>
+  </li>
+ </ul>
+</details>
+
+
+<details>
+ <summary>Template</summary>
+ <ul>
+  <li>
+<pre>
+Content
 </pre>
   </li>
  </ul>
