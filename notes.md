@@ -32,3 +32,15 @@ student_id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY);
  </ul>
  </summary>
 </details>
+
+
+<details>
+ <summary>Sample code: Create Student Table</summary>
+ <ul>
+  <li>
+<pre>
+Test
+</pre>
+  </li>
+ </ul>
+</details>
